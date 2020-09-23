@@ -1,0 +1,3 @@
+int32 duration     #number of times BB-8 executes the movement
+---
+bool success
